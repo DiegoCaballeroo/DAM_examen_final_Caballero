@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DAM_Examen_Final_Caballero</string>
+    <string-array name="document_types">
+        <item>DNI</item>
+        <item>CARNET DE EXTRANJERÍA</item>
+        <item>PASAPORTE</item>
+    </string-array>
+</resources>
